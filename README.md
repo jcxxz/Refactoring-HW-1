@@ -26,8 +26,11 @@ THEN I find a concise, descriptive title
 
 ## Mock-Up
 
-The following image shows the web application's appearance and functionality:
+The following images show the code and the website together.
+![Screenshot (1)](https://user-images.githubusercontent.com/117127694/204434830-6568dfe1-c568-4ac4-855d-a80dd4ff5df9.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/117127694/204434845-f4ed8f36-536e-45dd-9099-b952e47b98d9.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/117127694/204434857-5496b851-16ce-4fbc-9ca7-344e3850241d.png)
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+
 
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
